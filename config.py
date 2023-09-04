@@ -1,7 +1,7 @@
 class Config(object):
     def __init__(self):
-        self.epochs = 1
-        self.batch_size = 1
+        self.epochs = 10
+        self.batch_size = 8
         self.num_classes = 10
         # -----------------
         self.threshold = 0.85 # model pred strong_augmentation > threshold
