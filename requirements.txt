@@ -1,0 +1,10 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+numpy
+pillow
+opencv-contrib-python
+opencv-python
+
+torch==2.0.1
+timm==0.9.7
