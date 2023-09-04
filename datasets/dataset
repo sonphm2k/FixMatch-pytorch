@@ -1,0 +1,7 @@
+# Dataset: OOD-CV Challenge 2023 (Classification Track - ImageNet-1k leaderboard)
+# Download dataset
+gdown 1_b0AF4Jn1aAnK7R5lqL2ra-APRQ17a-W
+
+# ------------------------------------
+# Unzip dataset
+unzip OOD-CV-cls-2023.zip
