@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 ```
 
-## Dataset
+## FixMatch
 ![alt-text](README/fixmatch_workflow.png)
 
 ## Result
